@@ -8,3 +8,5 @@ Curso de React Router 5 y Redux
   ```bash
   npm install react-router-dom --save
   ```
+  
+  Actulizar dependencias.
